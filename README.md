@@ -8,6 +8,11 @@ github repo visualization
 - add projects and create relationships between your repo and other repo or projects
 
 
+- front end: react, d3
+- back end: express
+- db: neo4j or mongoDb
+
+
 
 
 
