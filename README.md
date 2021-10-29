@@ -1,5 +1,8 @@
 # GithubVisual
 
+- moved to  https://github.com/sunrise1234321/GithubVisual_d3
+
+
 github repo visualization ( the idea could extend to everything on this earth, directed graph ould be used in any situations ( to-do list , plan, etc......), but the render scheme is the thing to be designed)
 
 
